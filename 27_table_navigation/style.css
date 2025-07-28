@@ -1,0 +1,14 @@
+/* Kunal Sharma IIT Jammu */
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.heading {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.subheading {
+  text-align: center;
+}

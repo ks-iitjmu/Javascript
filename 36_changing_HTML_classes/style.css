@@ -1,0 +1,36 @@
+/* Kunal Sharma IIT Jammu */
+body {
+  height: 100%;
+  width: 100%;
+  background-color: bisque;
+}
+
+.heading {
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+#subheading {
+  text-align: center;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.red {
+  background-color: red;
+}
+
+.black {
+  background-color: black;
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+}
