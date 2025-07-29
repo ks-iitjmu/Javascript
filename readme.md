@@ -36,29 +36,6 @@ This repository follows the complete JavaScript curriculum from CodeWithHarry's 
 └── README.md                    # This file
 ```
 
-## 🎮 Featured Projects & Exercises
-
-### 🎯 Exercise 01 - Number Guessing Game
-```javascript
-// A fun number guessing game with scoring system
-let number = Math.floor(Math.random() * 100) + 1;
-// Players get up to 100 chances to guess the correct number
-```
-
-### ✂️ Exercise 02 - Stone, Paper, Scissors
-```javascript
-// Classic rock-paper-scissors game against computer
-let user = prompt("Enter S, W and G");
-let cpu = ["S", "W", "G"][Math.floor(Math.random() * 3)];
-```
-
-### 🔄 Array Operations & Methods
-```javascript
-// Comprehensive array manipulation examples
-let num = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-// forEach, map, filter, reduce operations
-```
-
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
